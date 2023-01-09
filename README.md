@@ -10,7 +10,7 @@
 
 <br>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
 
   <img align-content="center" alt="Univesp"  src="https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-UNIVESP-yellow">
 <br>
