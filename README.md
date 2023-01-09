@@ -9,6 +9,14 @@
 - 😎 Tenho experiência e conhecimentos em automação industrial com principal base a linha de CLP e IHM Siemens assim como conhecimento em gestão e processos industriais
 
 <br>
+
+<div style="display: block" align="center"><br>
+  <img align="center" alt="Univesp" src="https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-UNIVESP-yellow">
+  <img align="center" alt="Unasp" src="https://img.shields.io/badge/Processos%20Gerenciais-UNASP-green">
+  <img align="center" alt="Unisal" src="https://img.shields.io/badge/Mecatrônico-UNISAL-green">
+  <img align="center" alt="graduation" src="https://img.shields.io/badge/Processos%20Gerenciais%20-UNASP-green">
+</div>
+
 <br>
 
 <div align="center">
