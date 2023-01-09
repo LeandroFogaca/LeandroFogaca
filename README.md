@@ -10,9 +10,8 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-around;" align-content="center">
-<div style="display: inline-block; align-content: center" align-content="center">
-<h3>Formação Acadêmica</h3>
+<div style="display: inline_block">
+
   <img align-content="center" alt="Univesp"  src="https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-UNIVESP-yellow">
 <br>
   <img align-content="center" alt="Unasp"  src="https://img.shields.io/badge/Processos%20Gerenciais-UNASP-green">
@@ -21,17 +20,15 @@
 <br>
   <img align-content="center" alt="Unisal"  src="https://img.shields.io/badge/Eletricista%20de%20Manutenção-SENAI-green">
 <br>
-</div>
-<div style="display: inline-block" align-content="center">
-  <h3>Skills</h3>
   <img aling-content="center" alt="english" src="https://img.shields.io/badge/Inglês-Avançado-green">
 <br>
+
 </div>
 </div>
 
 <br>
 
-<div align="center">
+<div align="center" style="display: inline; justify-content: space-around;">
   <a href="https://github.com/LeandroFogaca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroFogaca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFogaca&layout=compact&langs_count=7&theme=dark"/>
