@@ -10,11 +10,23 @@
 
 <br>
 
-<div style="display: block" align="center"><br>
-  <img align="center" alt="Univesp" src="https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-UNIVESP-yellow">
-  <img align="center" alt="Unasp" src="https://img.shields.io/badge/Processos%20Gerenciais-UNASP-green">
-  <img align="center" alt="Unisal" src="https://img.shields.io/badge/Mecatrônico-UNISAL-green">
-  <img align="center" alt="graduation" src="https://img.shields.io/badge/Processos%20Gerenciais%20-UNASP-green">
+<div style="display: flex; justify-content: space-around;" align-content="center">
+<div style="display: inline-block; align-content: center" align-content="center">
+<h3>Formação Acadêmica</h3>
+  <img align-content="center" alt="Univesp"  src="https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-UNIVESP-yellow">
+<br>
+  <img align-content="center" alt="Unasp"  src="https://img.shields.io/badge/Processos%20Gerenciais-UNASP-green">
+<br>
+  <img align-content="center" alt="Unisal"  src="https://img.shields.io/badge/Técnico%20em%20Mecatrônica-UNISAL-green">
+<br>
+  <img align-content="center" alt="Unisal"  src="https://img.shields.io/badge/Eletricista%20de%20Manutenção-SENAI-green">
+<br>
+</div>
+<div style="display: inline-block" align-content="center">
+  <h3>Skills</h3>
+  <img aling-content="center" alt="english" src="https://img.shields.io/badge/Inglês-Avançado-green">
+<br>
+</div>
 </div>
 
 <br>
