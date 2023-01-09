@@ -1,20 +1,15 @@
-### Olá eu Leandro Fogaça
-
+### Olá, eu sou Leandro Fogaça
 
 - 🔭 Atualmente estou trabalhando em um projeto open-source de CMMS ( espero publicar em breve).
 
-- 🌱 Eu estou aprendendo a desenvolver utilizando como base JS para acelerar a minha capacidade em entregar um aplicação completa.
+- 🌱 Eu estou aprendendo a desenvolver utilizando como base o JavaScript para acelerar a minha capacidade em entregar um aplicação completa. Meu maior foco é em NodeJS.
 
 - 🌱 Também estudo um pouco de Python para automatizar minhas rotinas no trabalho.
 
-- 😎 Tenho experiência e conhecimentos em automação industrial com principal base a linha de CLP e IHM Siemens assim como conhecimento em gestão e processos industriais 
-
-
+- 😎 Tenho experiência e conhecimentos em automação industrial com principal base a linha de CLP e IHM Siemens assim como conhecimento em gestão e processos industriais
 
 <br>
 <br>
-
-
 
 <div align="center">
   <a href="https://github.com/LeandroFogaca">
@@ -30,5 +25,5 @@
   <img align="center" alt="fogaca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="fogaca-Arduino" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="fogaca-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-         
+
 </div>
