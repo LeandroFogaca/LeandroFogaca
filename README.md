@@ -44,3 +44,5 @@
   <img align="center" alt="fogaca-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </div>
+ 
+  [comment]: <> (<p align="right"> <img src="https://komarev.com/ghpvc/?username=LeandroFogaca&color=blue" alt="Profile views"/></p>)
