@@ -1,12 +1,12 @@
 ### Olá, eu sou Leandro Fogaça
 
-- 🔭 Atualmente estou trabalhando em um projeto open-source de CMMS ( espero publicar em breve).
-
 - 🌱 Eu estou aprendendo a desenvolver utilizando como base o JavaScript para acelerar a minha capacidade em entregar um aplicação completa. Meu maior foco é em NodeJS.
 
 - 🌱 Também estudo um pouco de Python para automatizar minhas rotinas no trabalho.
 
-- 😎 Tenho experiência e conhecimentos em automação industrial com principal base a linha de CLP e IHM Siemens assim como conhecimento em gestão e processos industriais
+- 😎 Tenho experiência e conhecimentos em automação industrial com principal base a linha de CLP e IHM Siemens assim como conhecimento em gestão e processos industriais.
+
+- 💻 Estudante de Engenharia de Computação na UNIVESP
 
 <br>
 
